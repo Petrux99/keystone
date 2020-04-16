@@ -1,5 +1,17 @@
 # @keystonejs/fields
 
+## 9.0.2
+
+### Patch Changes
+
+- [`9d862edc`](https://github.com/keystonejs/keystone/commit/9d862edc506460d4a0456e48ec418b9042b582ad) [#2738](https://github.com/keystonejs/keystone/pull/2738) Thanks [@Vultraz](https://github.com/Vultraz)! - Updated react-select dependency to 3.1.0.
+
+- Updated dependencies [[`9d862edc`](https://github.com/keystonejs/keystone/commit/9d862edc506460d4a0456e48ec418b9042b582ad), [`344c45ef`](https://github.com/keystonejs/keystone/commit/344c45efbb96a90010f81e4c8447a9c5728ea87f), [`875c7df5`](https://github.com/keystonejs/keystone/commit/875c7df5873c3a5173fba1a7c3078fcd098f0a32)]:
+  - @keystonejs/app-admin-ui@5.9.7
+  - @arch-ui/options@0.0.18
+  - @arch-ui/select@0.1.7
+  - @arch-ui/layout@0.2.12
+
 ## 9.0.1
 
 ### Patch Changes
